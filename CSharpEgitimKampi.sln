@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_Loops", "04_Loops\04_Loo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_LoopsWithStars", "05_LoopsWithStars\05_LoopsWithStars.csproj", "{2ABC4A39-83E7-42BF-A53B-47B2F4173F6C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_Arrays", "06_Arrays\06_Arrays.csproj", "{E3E816D9-F84D-4C44-AA91-B8E92F2F9B7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_ForeachLoop", "07_ForeachLoop\07_ForeachLoop.csproj", "{DC31250C-FB3E-4124-AED8-AF86F7264749}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{2ABC4A39-83E7-42BF-A53B-47B2F4173F6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2ABC4A39-83E7-42BF-A53B-47B2F4173F6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2ABC4A39-83E7-42BF-A53B-47B2F4173F6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3E816D9-F84D-4C44-AA91-B8E92F2F9B7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3E816D9-F84D-4C44-AA91-B8E92F2F9B7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3E816D9-F84D-4C44-AA91-B8E92F2F9B7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3E816D9-F84D-4C44-AA91-B8E92F2F9B7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC31250C-FB3E-4124-AED8-AF86F7264749}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC31250C-FB3E-4124-AED8-AF86F7264749}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC31250C-FB3E-4124-AED8-AF86F7264749}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC31250C-FB3E-4124-AED8-AF86F7264749}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
