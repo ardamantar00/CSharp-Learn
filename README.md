@@ -34,3 +34,15 @@ foreach döngüsünü kullanarak basit bir sınav sistemi yaptım. Öğrencileri
 📌 Proje 8: Geriye Değer Döndüren Fonksiyonlar
 
 Kullanıcıdan aldığım verileri işleyip geriye sonuç döndüren fonksiyonlar yazdım. Daha karmaşık işlemleri bu projeyle öğrenmiş oldum. 🎗️
+
+📌 Proje 9: Temel Database İşlemleri
+
+Veritabanı bağlantıları ve veritabanından veri okumayı öğrendim
+
+📌 Proje 10: Temel CRUD operasyonları
+
+Temel CRUD operasyonlarını öğrendim
+
+
+
+
