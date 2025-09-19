@@ -44,5 +44,11 @@ Veritabanı bağlantıları ve veritabanından veri okumayı öğrendim
 Temel CRUD operasyonlarını öğrendim
 
 
+📌CSharpEgitimKampi301 
+
+Entity Framework Metotlarını öğrendim ve tur projesini tamamladım
+
+![Tur Projesi](images/Statistics.png)
+
 
 
