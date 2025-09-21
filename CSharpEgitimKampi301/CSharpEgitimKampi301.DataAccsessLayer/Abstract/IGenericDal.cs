@@ -6,12 +6,12 @@ using System.Threading.Tasks;
 
 namespace CSharpEgitimKampi301.DataAccsessLayer.Abstract
 {
-    public interface IGenericDal<T> where T: class
+    public interface IGenericDal<T> where T : class
     {
         void Insert(T entity);
-        void Update(T entity);  
+        void Update(T entity);
 
-        void Delete(int id);
+        void Delete(T entity);
         List<T> GetAll();
         T GetById(int id);
 
