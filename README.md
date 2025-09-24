@@ -50,5 +50,16 @@ Entity Framework Metotlarını öğrendim ve tur projesini tamamladım
 
 ![Tur Projesi](images/Statistics.png)
 
+📌CSharpEgitimKampi501 
 
+Bu proje, C# ve Dapper kullanarak veri tabanı işlemleri yapmayı öğrendiğim küçük uygulamaları içeriyor.
+
+📌CSharpEgitimKampi601 
+
+Bu proje, MongoDB ve PostgreSQL öğrenme sürecimi ve küçük uygulamalarımı içeriyor.
+
+📌Financial CRM Projesi
+Bu proje, C# Windows Forms kullanılarak geliştirilen bir Customer/Bank Management CRM uygulamasıdır.
+![FinancialCrm Projesi1](images/Dashboard.png)
+![FinancialCrm Projesi2](images/Bank.png)
 
